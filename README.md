@@ -95,7 +95,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![image](../out1.png)
+![image](scr1.png)
 
 # RESULT:
 
